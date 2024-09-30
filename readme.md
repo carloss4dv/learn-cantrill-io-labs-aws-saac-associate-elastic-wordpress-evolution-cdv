@@ -14,7 +14,7 @@ Para más información o para acceder al curso, puedes visitar los siguientes en
 
 - [AWS Certified Solutions Architect - Associate (SAA-C03) en AdrianCantrill.com](https://learn.cantrill.io/p/aws-certified-solutions-architect-associate-saa-c03)
 - [AWS Certified Solutions Architect - Associate (SAA-C03) en Udemy](https://www.udemy.com/course/aws-certified-solutions-architect-associate/)
-- [Repositorio learn-cantrill-io-labs][AWS](https://github.com/acantril/learn-cantrill-io-labs/tree/master)
+- [Repositorio learn-cantrill-io-labs](https://github.com/acantril/learn-cantrill-io-labs/tree/master)
 
 Agradecimientos especiales a Adrian Cantrill por compartir su conocimiento y contribuir al éxito de quienes buscan certificarse en AWS.
 
@@ -38,7 +38,7 @@ For more information or to access the course, you can visit the following links:
 
 - [AWS Certified Solutions Architect - Associate (SAA-C03) on AdrianCantrill.com](https://learn.cantrill.io/p/aws-certified-solutions-architect-associate-saa-c03)
 - [AWS Certified Solutions Architect - Associate (SAA-C03) on Udemy](https://www.udemy.com/course/aws-certified-solutions-architect-associate/)
-- [Learn-cantrill-io-labs repository][AWS](https://github.com/acantril/learn-cantrill-io-labs/tree/master)
+- [Learn-cantrill-io-labs repository](https://github.com/acantril/learn-cantrill-io-labs/tree/master)
 
 Special thanks to Adrian Cantrill for sharing his knowledge and contributing to the success of those seeking AWS certification.
 
