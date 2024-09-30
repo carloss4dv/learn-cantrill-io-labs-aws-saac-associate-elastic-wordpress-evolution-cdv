@@ -1,10 +1,10 @@
 
-### REMINDER
-# Proyecto AWS_SAAC-003
+#### REMINDER
+### Proyecto AWS_SAAC-003
 
 Este repositorio contiene código y recursos relacionados con el curso **AWS Certified Solutions Architect - Associate (SAA-C03)** impartido por **Adrian Cantrill**. Todo el contenido de este repositorio ha sido creado siguiendo su curso y las instrucciones proporcionadas en el mismo.
 
-## Autoría
+### Autoría
 
 El código y las ideas reflejadas en este repositorio pertenecen completamente a **Adrian Cantrill**, quien ha desarrollado el contenido de manera original a través de su curso.
 
@@ -24,11 +24,11 @@ Este repositorio se utiliza con fines educativos siguiendo las directrices del c
 
 ---
 
-# AWS_SAAC-003 Project
+### AWS_SAAC-003 Project
 
 This repository contains code and resources related to the **AWS Certified Solutions Architect - Associate (SAA-C03)** course taught by **Adrian Cantrill**. All the content in this repository has been created following his course and instructions.
 
-## Attribution
+### Attribution
 
 The code and ideas reflected in this repository fully belong to **Adrian Cantrill**, who originally developed the content through his course.
 
@@ -42,7 +42,7 @@ For more information or to access the course, you can visit the following links:
 
 Special thanks to Adrian Cantrill for sharing his knowledge and contributing to the success of those seeking AWS certification.
 
-## Repository Usage
+### Repository Usage
 
 This repository is used for educational purposes following the guidelines of **Adrian Cantrill's** course. It is recommended not to use the content for commercial purposes or distribute it without proper attribution.
 
