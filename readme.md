@@ -1,4 +1,51 @@
-# Advanced Demo - Web App - Single Server to Elastic Evolution
+
+### REMINDER
+# Proyecto AWS_SAAC-003
+
+Este repositorio contiene código y recursos relacionados con el curso **AWS Certified Solutions Architect - Associate (SAA-C03)** impartido por **Adrian Cantrill**. Todo el contenido de este repositorio ha sido creado siguiendo su curso y las instrucciones proporcionadas en el mismo.
+
+## Autoría
+
+El código y las ideas reflejadas en este repositorio pertenecen completamente a **Adrian Cantrill**, quien ha desarrollado el contenido de manera original a través de su curso.
+
+### Curso de Adrian Cantrill en AWS Certified Solutions Architect - Associate (SAA-C03)
+
+Para más información o para acceder al curso, puedes visitar los siguientes enlaces:
+
+- [AWS Certified Solutions Architect - Associate (SAA-C03) en AdrianCantrill.com](https://learn.cantrill.io/p/aws-certified-solutions-architect-associate-saa-c03)
+- [AWS Certified Solutions Architect - Associate (SAA-C03) en Udemy](https://www.udemy.com/course/aws-certified-solutions-architect-associate/)
+
+Agradecimientos especiales a Adrian Cantrill por compartir su conocimiento y contribuir al éxito de quienes buscan certificarse en AWS.
+
+## Uso del Repositorio
+
+Este repositorio se utiliza con fines educativos siguiendo las directrices del curso de **Adrian Cantrill**. Se recomienda no utilizar el contenido con fines comerciales ni distribuirlo sin la debida atribución.
+
+---
+
+# AWS_SAAC-003 Project
+
+This repository contains code and resources related to the **AWS Certified Solutions Architect - Associate (SAA-C03)** course taught by **Adrian Cantrill**. All the content in this repository has been created following his course and instructions.
+
+## Attribution
+
+The code and ideas reflected in this repository fully belong to **Adrian Cantrill**, who originally developed the content through his course.
+
+### Adrian Cantrill's AWS Certified Solutions Architect - Associate (SAA-C03) Course
+
+For more information or to access the course, you can visit the following links:
+
+- [AWS Certified Solutions Architect - Associate (SAA-C03) on AdrianCantrill.com](https://learn.cantrill.io/p/aws-certified-solutions-architect-associate-saa-c03)
+- [AWS Certified Solutions Architect - Associate (SAA-C03) on Udemy](https://www.udemy.com/course/aws-certified-solutions-architect-associate/)
+
+Special thanks to Adrian Cantrill for sharing his knowledge and contributing to the success of those seeking AWS certification.
+
+## Repository Usage
+
+This repository is used for educational purposes following the guidelines of **Adrian Cantrill's** course. It is recommended not to use the content for commercial purposes or distribute it without proper attribution.
+
+
+### Advanced Demo - Web App - Single Server to Elastic Evolution
 
 In this advanced demo lesson you are going to evolve the architecture of a popular web application wordpress
 The architecture will start with a manually built single instance, running the application and database
